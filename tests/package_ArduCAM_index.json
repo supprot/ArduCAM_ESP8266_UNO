@@ -10,7 +10,7 @@
 				{
 				    "category":"ESP8266",
 					"name":"ArduCAM_ESP8266_UNO",
-					"url":"https://raw.githubusercontent.com/support/ArduCAM_ESP8266_UNO/master/releases/download/2.2.1/ArduCAM_ESP8266_UNO.zip",
+					"url":"https://raw.githubusercontent.com/support/ArduCAM_ESP8266_UNO/master/releases/download/2.2.2/ArduCAM_ESP8266_UNO.zip",
 					"checksum":"SHA-256:4056C82ECF31B6D0B3A47B0F620AB46484E39E0F3156D7D02596DE030655F86F",
 					"help":{ "online":"https://github.com/ArduCAM/ArduCAM_ESP8266_UNO" },
 					"version":"2.2.2",
